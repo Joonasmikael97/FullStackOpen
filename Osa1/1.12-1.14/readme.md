@@ -1,3 +1,4 @@
+// Tehtävät 1.12-1.14
 import React, { useState } from 'react';
 
 const Anecdote = ({ anecdote, votes, vote, randomAnecdote }) => {
